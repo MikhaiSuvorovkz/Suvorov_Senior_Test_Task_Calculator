@@ -1,0 +1,20 @@
+{
+    "name": "Game.EntryPoint",
+    "rootNamespace": "",
+    "references": [
+        "Game.Runtime",
+        "Game.Persistance",
+        "Game.UI.View",
+        "Game.UI",
+        "Game.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
